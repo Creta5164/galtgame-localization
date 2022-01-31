@@ -1,0 +1,41 @@
+[
+    null,
+    {
+        "description": "It's a bucket with nothing.\n\\C[3]It can be used with water in it\\C[0], \\C[2]but it becomes heavy\\C[0].",
+        "name": "Bukkit"
+    },
+    {
+        "description": "[Consumable] A bucket filled with water.\n\\C[2]It's heavy\\C[0], \\C[3]but good for when tree is dry.\\C[0]",
+        "name": "Watered bukkit",
+        "note": "비매품"
+    },
+    {
+        "description": "[Permanent] [Consumable] Use on tree to\n\\C[3]increase growth speed\\C[0].",
+        "name": "Fertilizer",
+        "note": "낮은확률"
+    },
+    {
+        "description": "[Consumable] Clear \\C[3]3 \\C[2]insects\\C[0] on the tree.",
+        "name": "Insect repellent",
+        "note": "낮은확률"
+    },
+    {
+        "description": "[Consumable] \\C[3]Recovers by 25\\C[0] when attached to a tree.\nHowever, \\C[2]lost branches cannot be saved.\\C[0]",
+        "name": "Patch"
+    },
+    {
+        "description": "[Not nestable] Excalibur in the form of an axe,\n\\C[3]it hurts very much, \\C[2]but it might cut down a tree.",
+        "name": "Axecalibur",
+        "note": "중첩불가\n낮은확률"
+    },
+    {
+        "description": "[Not nestable] A second-hand sale by\na mythical character. \\C[3]It increases your speed.",
+        "name": "Hermes shoes",
+        "note": "중첩불가\n낮은확률"
+    },
+    {
+        "description": "[Not nestable] It's a manly looking stick.\n\\C[3]If I hit the enemy, I think I can hit a home run.",
+        "name": "Club",
+        "note": "중첩불가\n낮은확률"
+    }
+]

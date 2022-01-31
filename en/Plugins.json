@@ -1,0 +1,45 @@
+{
+    "FontAtlas": {
+        "font": "Dotum.fnt",
+        "path": "./lang/en/fonts/",
+        "offset-chars": [],
+        "icon-chars": [
+            "65319",
+            "65332"
+        ]
+    },
+    "DirectorViewMV": {
+        "default-offset-x": "0",
+        "default-offset-y": "0",
+        "use-lookahead": "true",
+        "lookahead-h": "20",
+        "lookahead-v": "20",
+        "lookahead-delay": "15",
+        "lookahead-duration": "30",
+        "anchor-transition-duration": "60",
+        "use-accurate-anchor-check": "true",
+        "string-use-fixed-camera": "Use fixed camera"
+    },
+    "Strings": {
+        "watermark": "©2022 Creta Park & friends",
+        "watermark-ext": "Submitted to 1Map1Chicken with Flame",
+        "result-ask-share-1": "Would you like to submit your game record on the leaderboard?",
+        "result-ask-share-2": "* Once submitted, everyone can see your record.",
+        "result-ask-share-ok": "Submit",
+        "result-ask-share-cancel": "Cancel",
+        "result-share": "ＴShare",
+        "result-title": "Return to title",
+        "share-temp-game-over": "\"\\\"Hero failed to protect the tree...\\\"\\n\\nPlaytime:{time}\\nLevel:{level}\\nLeaves:{leaves}\\n\\nPrincess needs your help!\\n\"",
+        "share-temp-clear": "\"\\\"Hero saved the Princess and restored peace!\\\"\\n\\nPlaytime:{time}\\nLeaves:{leaves}\\n\\nPrincess still needs your help!\\n\"",
+        "leaderboard-loading": "Please wait...",
+        "leaderboard-failed-to-load": "Failed to load leaderboard.",
+        "leaderboard-failed-to-load-refresh": "Try again",
+        "leaderboard-failed-to-load-exit": "Return to title",
+        "captcha-notice": "Please confirm reCAPTCHA to submit records.",
+        "leaderboard-failed-to-submit": "Failed to submit record on leaderboard.",
+        "leaderboard-failed-to-submit-retry": "Try again",
+        "leaderboard-failed-to-submit-exit": "Return to title",
+        "online": "Online",
+        "offline": "Offline"
+    }
+}

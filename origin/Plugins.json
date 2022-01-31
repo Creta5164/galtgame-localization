@@ -1,0 +1,45 @@
+{
+    "FontAtlas": {
+        "font": "Dotum.fnt",
+        "path": "./fonts/",
+        "offset-chars": [],
+        "icon-chars": [
+            "65319",
+            "65332"
+        ]
+    },
+    "DirectorViewMV": {
+        "default-offset-x": "0",
+        "default-offset-y": "0",
+        "use-lookahead": "true",
+        "lookahead-h": "20",
+        "lookahead-v": "20",
+        "lookahead-delay": "15",
+        "lookahead-duration": "30",
+        "anchor-transition-duration": "60",
+        "use-accurate-anchor-check": "true",
+        "string-use-fixed-camera": "고정 카메라 사용"
+    },
+    "Strings": {
+        "watermark": "©2022 Creta Park & friends",
+        "watermark-ext": "Submitted to 1Map1Chicken with Flame",
+        "result-ask-share-1": "게임 기록을 점수판에 등록할까요?",
+        "result-ask-share-2": "* 등록하게 되면 모든 사람이 볼 수 있습니다.",
+        "result-ask-share-ok": "등록하기",
+        "result-ask-share-cancel": "취소",
+        "result-share": "Ｔ공유",
+        "result-title": "타이틀로 돌아가기",
+        "share-temp-game-over": "\"\\\"용사는 나무를 지키지 못했다...\\\"\\n\\n플레이 타임:{time}\\n레벨:{level}\\n나뭇잎:{leaves}\\n\\n공주는 당신의 도움이 필요하다, 도전하려면 아래의 링크로!\\n\"",
+        "share-temp-clear": "\"\\\"용사는 공주를 구하고 평화를 되찾았다!\\\"\\n\\n플레이 타임:{time}\\n나뭇잎:{leaves}\\n\\n공주는 여전히 당신의 도움이 필요하다, 도전하려면 아래의 링크로!\\n\"",
+        "leaderboard-loading": "잠시만 기다려주세요...",
+        "leaderboard-failed-to-load": "점수판을 불러오지 못했습니다.",
+        "leaderboard-failed-to-load-refresh": "다시 불러오기",
+        "leaderboard-failed-to-load-exit": "메뉴로 돌아가기",
+        "captcha-notice": "기록을 등록하기 위해 reCAPTCHA를 인증해주세요.",
+        "leaderboard-failed-to-submit": "점수판에 기록을 등록하지 못했습니다.",
+        "leaderboard-failed-to-submit-retry": "다시 시도하기",
+        "leaderboard-failed-to-submit-exit": "메뉴로 돌아가기",
+        "online": "온라인",
+        "offline": "오프라인"
+    }
+}

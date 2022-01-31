@@ -1,0 +1,20 @@
+[
+    null,
+    {
+        "message1": "'s attack!",
+        "name": "Attack"
+    },
+    {
+        "message1": " entered a defensive stance!",
+        "name": "Guard"
+    },
+    {
+        "description": "Performs a powerful attack to the target.",
+        "message1": "'s continuous attack!",
+        "name": "Strike of Conversion"
+    },
+    {
+        "message1": " has used very strong attack!",
+        "name": "The Devil's Blow!"
+    }
+]
