@@ -37,7 +37,7 @@
             "Give \\G\\C[3]\\V[9]\\C[0]",
             "Refuse it"
         ],
-        "Wait, You don't have Ｇ\\. Gimme everything you have!",
+        "Wait, You don't have Ｇ\\.\nGimme everything you have!",
         "\\$Huh, \\.\\.I'll come back later...",
         "\\$You gave him all the \\G you had.",
         "Damn,\\. you don't have enough\\G\\C[3]\\V[9]\\C[0],\\.\\.",
@@ -86,7 +86,7 @@
     ],
     "40": [
         "Please type a nickname(3 to 15 characters) to submit.",
-        "The nickname must be 3 or more and 15 or less characters.",
+        "The nickname must be 3 or more\nand 15 or less characters.",
         "Nickname : \\N[1]",
         "Would you like this to submit this record?",
         "* You can request deletion of registered records",
