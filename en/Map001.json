@@ -5,10 +5,10 @@
             "\\C[3]Z\\C[0] : Interaction  \\C[14](Select)\\C[0]",
             "\\C[3]X\\C[0] : Open menu \\C[14](Cancel)\\C[0]",
             "\\C[3]LShift\\C[0] : \\C[14](Hold)\\C[0] Run",
-            "The goal of the game is to grow Legendary tree safely.\\!",
-            "You will need \\C[3]water\\C[0] to grow a tree.\\!",
+            "The goal of the game is to grow the Legendary tree\nand keep it safe.\\!",
+            "You will need \\C[3]water\\C[0] to grow the tree.\\!",
             "Our Hero was thoroughly prepared,",
-            "so he brought \\C[3]a bucket\\C[0], such a good hero,\\.\\. isn't it?",
+            "so he brought \\C[3]a bucket\\C[0], such a good hero,\\.\\. isn't he?",
             "Now, let's get some water from the lake below.\\!",
             "Get close to this lake and select \\C[3]Bucket\\C[0]",
             "from the item menu to fill it with water."
@@ -17,7 +17,7 @@
             "You put water in a bucket!",
             "Now let's take it to \\C[3]the Legendary Tree\\C[0]",
             "and use a \\C[3]Watered Bukkit\\C[0] to spray it",
-            "with water just like you did it for water."
+            "with water just like you did before."
         ],
         "6": [
             "Oops,\\.\\. you have to approach the tree to use the water.\\!",
@@ -27,30 +27,30 @@
             "Good!\\.\\. This is how you can water the tree.\\!",
             "\\C[3]Bukkit\\C[0] can hold water wherever there is water",
             "and \\C[3]Watered Bukkit\\C[0] can dump water anywhere.",
-            "You can water the trees as much as you like.\\!",
-            "Let's give it moderately well.",
-            "If Legendary tree has \\C[14]a state can able to grow up\\C[0],\\.\\.",
-            "in other words, condition in which \\C[14]EXP\\C[0] can rise",
-            "then it will produces \\G.",
+            "You can water the tree as much as you like.\\!",
+            "Let's give it a healthy serving.",
+            "Soon the Legendary tree will \\C[14]grow and evolve\\C[0],\\.\\.",
+            "in other words, the more \\C[14]EXP\\C[0] it gets,",
+            "the more it will produce \\G.",
             "Let's interact with \\C[3]Legendary Tree\\C[0] to harvest \\G."
         ],
         "9": [
-            "Great!\\.\\. \\$The \\G harvested in this way can be stored",
+            "Great!\\.\\. \\$The \\G harvested in this way will be stored",
             "in your pocket without limit.\\!",
             "Collected \\Gs can be used in \\C[14]various ways\\C[0]",
-            "so don't forget to harvest and take care of it often.",
+            "so don't forget to harvest and nurture it often.",
             "Finally, let's learn how to deal with \\C[2]monsters\\C[0].\\!",
-            "\\C[2]Monsters\\C[0] are appears \\C[3]afar\\C[0].\\!",
+            "\\C[2]Monsters\\C[0] will appear \\C[3]from afar\\C[0].\\!",
             "To attack a monster, simply approach the monster",
             "and \\C[14]interact\\C[0] with it",
             "Now, here's \\C[3]a monster that doesn't attack trees\\C[0].\\!",
-            "Try defeat it once for practice."
+            "Try defeating it for practice."
         ],
         "11": [
             "Well done!\\.\\.",
-            "This is how you defeat the monster.\\!",
-            "There's \\C[3]various monsters will appear\\C[0] in the game,",
-            "so do attack them by understanding their actions."
+            "This is how you fend off monsters.\\!",
+            "There's \\C[3]various monsters that can appear\\C[0] in the game,",
+            "So observe them and find the right time to attack."
         ],
         "12": [
             "Tutorial is over!\\!",

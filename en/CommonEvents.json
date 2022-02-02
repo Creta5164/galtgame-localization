@@ -2,25 +2,25 @@
     "2": [
         "One day in 2022... The Devil placed a curse",
         "on the princess of the peaceful kingdom...",
-        "The curse on the Princess was a very terrible",
-        "curse that turns into a monster over time...!",
-        "Hero goes to the sage to break the Princess's curse,",
-        "Hero hears from him about how to break her curse.",
-        "\"It is said that there was a tree that had only been",
-        "passed down as a legend in the Mt. [Legendary]...\"",
+        "The curse placed upon the Princess was a terrible one",
+        "A curse that gradually transforms one into a monster...!",
+        "To free the Princess, our Hero seeks the sage's advice",
+        "And so the sage explains to him...:",
+        "\"Legend has it that there is a tree that only grows",
+        "at the top of the Mt. [Legendary]...\"",
         "\"And it is said that the fruit of that legendary tree",
-        "was a key ingredient in a rare medicine\nthat can dispel any curse...\"",
+        "is a key ingredient in a rare medicine\nthat can dispel any curse...\"",
         "\"But if there was such a thing, I would have quit",
-        "this job and raised it and became rich...\\.\\. Hey, are you listening to me?\"",
-        "After hearing sage's words,\nhero realized that Mt. [Legendary]",
-        "was behind our castle, so hero headed there...",
-        "Surprisingly, hero finds a sapling of",
-        "a legendary tree there...",
+        "this job, raised it and gotten rich...\\.\\. Hey, are you listening to me?\"",
+        "After hearing sage's words,\nthe hero realized that Mt. [Legendary]",
+        "was behind the castle, and so hero marched on...",
+        "To his surprise, he found there",
+        "a sapling of the legendary tree...",
         "This... is that story..."
     ],
     "5": [
-        "You put water in a bucket!",
-        "You put stagnant water in a bucket..."
+        "You put water in the bucket!",
+        "You put stagnant water in the bucket..."
     ],
     "6": [
         "You watered the tree!",
@@ -35,19 +35,19 @@
         " ",
         [
             "Give \\G\\C[3]\\V[9]\\C[0]",
-            "Refuse it"
+            "Refuse the offer"
         ],
         "Wait, You don't have Ｇ\\.\nGimme everything you have!",
         "\\$Huh, \\.\\.I'll come back later...",
         "\\$You gave him all the \\G you had.",
         "Damn,\\. you don't have enough\\G\\C[3]\\V[9]\\C[0],\\.\\.",
-        "...I'll let you pass this time cause your efforts...",
+        "...I'll let you pass this time\n but only 'cause of your cooperation...",
         "Damn,\\. you don't have enough\\G\\C[3]\\V[9]\\C[0],\\.\\.",
-        "I'll steal yours all!",
-        "Damn,\\. I'll steal yours all!"
+        "I'll steal all you have!",
+        "Damn,\\. I'll steal all you have!"
     ],
     "18": [
-        "Welcome to the Growing a Legendary Tree!",
+        "Welcome to Growing a Legendary Tree!",
         "Do you want go through the tutorial?\\!",
         " ",
         [
@@ -55,10 +55,10 @@
             "No"
         ],
         "You can skip the tutorial by turning on '인트로 스킵'",
-        "in Settings and start the game right away.\n\\>\\C[7]* I forgot to leave it out for localization.\n\\>  you can recognize the letters, right?"
+        "in Settings and start the game right away.\n\\>\\C[7]* I forgot to leave it out for localization.\n\\>  you can recognize the characters, right?"
     ],
     "26": [
-        "I have everything except not have stuff,\ntake a look...",
+        "I have everything other than\n not having anything,\ncome take a look...",
         "Good deal,\\!",
         "I don't have any items left."
     ],
@@ -76,13 +76,13 @@
         "You used the patch on the tree.\\!",
         "The tree has been slightly restored.",
         "You used the patch on the tree.\\!",
-        "Trees and branches have been slightly restored.",
+        "The tree and its branches have been slightly restored.",
         "I don't think it's used here..."
     ],
     "39": [
         "Hero finally overcame all adversity and bore",
         "\\C[14]the legendary tree fruit\\C[0]",
-        "that could unleash the Princess's curse!\\|\\|\\|\\|\\|\\|"
+        "that could dispell the Princess's curse!\\|\\|\\|\\|\\|\\|"
     ],
     "40": [
         "Please type a nickname(3 to 15 characters) to submit.",
@@ -105,22 +105,22 @@
     "42": [
         "Hey,\\.\\. Stop there!\\!",
         "...Huh?\\.\\. Why is the Princess's crown...\\.\\.\nno way...\\.\\^",
-        "Ye, Yes!\\!",
+        "Ye-, Yes!\\!",
         "I have turned into a monster because the curse, but",
-        "I'm the princess who was waiting for hero's salvation...",
+        "I'm the princess who was waiting for the hero\n to come and save me...",
         "This is...\\.\\. \\C[14]the fruit of the legend\\C[0]...\\!",
-        "I can release the curse on me with this...!",
+        "I can lift the curse affecting me with this...!",
         "Princess!\\.\\. are you okay?",
-        "Urgh...\\.\\. I'm okay, it seems like\nbecause I'm in shape of monster.",
+        "Urgh...\\.\\. I'm okay, I think it's\nthanks to my monster's form.",
         "I can't make it so easy\nto break your curse...\\!",
         "Be prepared, hero!",
         "Urrrrrrrrrrrrgh!!!!!!!!!!!!!!",
         "Come on...!",
         "Here, the fruit...\\!",
-        "The curse\\..\\..\\..\\| are released\\..\\..\\..\\.!",
+        "The curse\\..\\..\\..\\| is released\\..\\..\\..\\.!",
         "Hurray!\\! I'm finally back to my original form!\\|",
-        "Later that hero and princess lived happily in this way,",
-        "and peace came to the kingdom...\\|\\|\\|\\^"
+        "The hero and the princess lived happily ever after,",
+        "and peace returned to the kingdom...\\|\\|\\|\\^"
     ],
     "43": [
         "  ",
@@ -200,7 +200,7 @@
         "  kkeomgo",
         "  MadPenguin",
         "  LSH",
-        "  DakeCraft\n\nEnglish Contributors\n  Altermox",
+        "  DakeCraft\n\nEnglish Contributors\n  Gawidev\n  Altermox",
         "Growing a Legend Tree",
         "© 2021 Creta Park and friends",
         "Submitted to 1Map1Chicken with Flame",
@@ -213,14 +213,14 @@
     ],
     "50": [
         "Huh, did you even attack?",
-        "Not tickling, but you...\\.\\.",
-        "how are you dodging all my attacks?",
-        "Ha! it's because I was busy working",
+        "Barely tickled me, but you...\\.\\.",
+        "how are you dodging all of my attacks?",
+        "Ha! it's because I was so busy working",
         "to grow the legendary tree...\\.\\.",
         "I won't give up!",
         "Hero was dodging all of",
         "the Devil's attacks with a very agile move...!",
-        "Urgh! Please be stay there!!",
-        "Now it's time, let's defeat it with\n\\C[14]Strike of Conversion\\C[0]!"
+        "Urgh! Please just stay still!!",
+        "Now, it's time, let's defeat it with\n\\C[14]Strike of Conversion\\C[0]!"
     ]
 }
