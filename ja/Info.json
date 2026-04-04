@@ -1,0 +1,29 @@
+{
+  "version": "Release 1.4.6",
+  "hash": "a091530b60df6c2294746fe85828e7356120acac",
+  "assets": [
+    "Actors.json",
+    "Armors.json",
+    "Classes.json",
+    "CommonEvents.json",
+    "Enemies.json",
+    "Items.json",
+    "Map001.json",
+    "Plugins.json",
+    "Skills.json",
+    "States.json",
+    "System.json",
+    "Troops.json",
+    "fonts/Dotum.fnt",
+    "fonts/Dotum.png",
+    "fonts/at01.png",
+    "img/pictures/GameOver.png",
+    "img/pictures/Objective_Fruit.png",
+    "img/pictures/Objective_LegendTree.png",
+    "img/pictures/Objective_Main.png",
+    "img/pictures/Objective_Title.png",
+    "img/system/1Map.png",
+    "img/titles1/treetitle-alt.png",
+    "img/titles1/treetitle.png"
+  ]
+}
