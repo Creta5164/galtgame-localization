@@ -1,0 +1,13 @@
+{
+    "og": {
+        "siteName": "전설의 나무 키우기",
+        "description": "마왕이 공주에게 저주를 걸었다! 이 저주를 풀려면 전설의 나무에서 자라는 과일이 필요하다는데...",
+        "imageAlt": "전설의 나무의 모습",
+        "clearedTitle": "세상을 구한 내 나무의 모습.png",
+        "gameOverTitle": "내가 키우던 나무의 마지막 모습.png",
+        "indexTitle": "공주를 도와주세요!"
+    },
+    "index": {
+        "title": "전설의 나무 키우기"
+    }
+}

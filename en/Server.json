@@ -1,0 +1,13 @@
+{
+    "og": {
+        "siteName": "Growing a Legendary Tree",
+        "description": "The devil has cursed the princess! To break this curse, need the fruit that grows on the legendary tree...",
+        "imageAlt": "The legendary tree",
+        "clearedTitle": "My tree that saved the world.png",
+        "gameOverTitle": "The last look of my tree.png",
+        "indexTitle": "Help the princess!"
+    },
+    "index": {
+        "title": "Growing a Legendary Tree"
+    }
+}
