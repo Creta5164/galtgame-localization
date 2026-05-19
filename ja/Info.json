@@ -1,9 +1,8 @@
-{
+﻿{
   "version": "Release 1.4.6",
   "hash": "a091530b60df6c2294746fe85828e7356120acac",
   "assets": [
     "Actors.json",
-    "Animations.json",
     "Armors.json",
     "Classes.json",
     "CommonEvents.json",
@@ -11,14 +10,14 @@
     "fonts/at01.png",
     "fonts/Dotum.fnt",
     "fonts/Dotum.png",
+    "fonts/Galmuri.png",
     "fonts/LICENSE",
     "img/pictures/GameOver.png",
     "img/pictures/Objective_Fruit.png",
     "img/pictures/Objective_LegendTree.png",
     "img/pictures/Objective_Main.png",
     "img/pictures/Objective_Title.png",
-    "img/titles1/src-treetitle-alt.png",
-    "img/titles1/src-treetitle.png",
+    "img/system/1Map.png",
     "img/titles1/treetitle-alt.png",
     "img/titles1/treetitle.png",
     "IndexDescription.html",
