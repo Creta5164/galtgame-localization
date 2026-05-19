@@ -1,0 +1,14 @@
+{
+    "og": {
+        "siteName": "伝説の木育て",
+        "description": "魔王が姫に呪いをかけた！この呪いを解くためには伝説の木から実る果実が必要だと言われている···",
+        "imageAlt": "伝説の木の姿",
+        "clearedTitle": "세상을 구한 내 나무의 모습.png",
+        "clearedTitle": "世界を救った私の木.png",
+        "gameOverTitle": "私が育てた木の最後.png",
+        "indexTitle": "姫を助けてください！"
+    },
+    "index": {
+        "title": "伝説の木育て"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "FontAtlas": {
+        "font": "Dotum.fnt",
+        "path": "./lang/ja/fonts/",
+        "offset-chars": [],
+        "icon-chars": [
+            "65319",
+            "65332"
+        ]
+    },
+    "DirectorViewMV": {
+        "default-offset-x": "0",
+        "default-offset-y": "0",
+        "use-lookahead": "true",
+        "lookahead-h": "20",
+        "lookahead-v": "20",
+        "lookahead-delay": "15",
+        "lookahead-duration": "30",
+        "anchor-transition-duration": "60",
+        "use-accurate-anchor-check": "true",
+        "string-use-fixed-camera": "固定カメラ使用"
+    },
+    "Strings": {
+        "watermark": "©2022 Creta Park & friends",
+        "watermark-ext": "Submitted to 1Map1Chicken with Flame",
+        "result-ask-share-1": "ゲーム記録をスコアボードに登録しますか？",
+        "result-ask-share-2": "※登録すると全員が閲覧できます。",
+        "result-ask-share-ok": "登録する",
+        "result-ask-share-cancel": "キャンセル",
+        "result-share": "Ｔ共有",
+        "result-title": "タイトルに戻る",
+        "share-temp-game-over": "\"\\\"勇者は木を守れなかった…\\\"\\n\\nプレイ時間:{time}\\nレベル:{level}\\n葉:{leaves}\\n\\n姫はあなたの助けを必要としている、挑戦するなら下のリンクへ！\\n\"",
+        "share-temp-clear": "\"\\\"勇者は姫を救い、平和を取り戻した！\\\"\\n\\nプレイ時間:{time}\\n葉:{leaves}\\n\\n姫はまだあなたの助けを必要としている、挑戦するなら下のリンクへ！\\n\"",
+        "leaderboard-loading": "しばらくお待ちください…",
+        "leaderboard-failed-to-load": "スコアボードの読み込みに失敗しました。",
+        "leaderboard-failed-to-load-refresh": "再読み込み",
+        "leaderboard-failed-to-load-exit": "メニューに戻る",
+        "captcha-notice": "記録を登録するためにreCAPTCHA認証をしてください。",
+        "leaderboard-failed-to-submit": "スコアボードへの記録登録に失敗しました。",
+        "leaderboard-failed-to-submit-retry": "再試行",
+        "leaderboard-failed-to-submit-exit": "メニューに戻る",
+        "online": "オンライン",
+        "offline": "オフライン"
+    }
+}
